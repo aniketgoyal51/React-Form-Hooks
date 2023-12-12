@@ -1,0 +1,37 @@
+body{
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+form{
+    background-color: rgb(255, 214, 152);
+    padding: 20px;
+    width: fit-content;
+}
+
+form input{
+    width: 300px;
+    padding: 4px;
+    font-size: 17px;
+}
+
+p{
+    position: relative;
+    bottom: 5px;
+    font-size: 14px;
+    margin-left: 3px;
+    color: rgb(215, 0, 0);
+    line-height: 0px;
+
+}
+
+button{
+    width: 100%;
+    padding: 2px;
+    background-color: rgb(255, 107, 107);
+    font-weight: 600;
+    font-size: 20px;
+}
